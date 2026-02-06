@@ -1,0 +1,26 @@
+{
+  "workshoptitle": "Build RAG Agents with Oracle AI Database 26ai",
+  "help": "livelabs-help-db_us@oracle.com",
+  "tutorials": [
+    {
+      "title": "Introduction",
+      "description": "Overview of RAG and Oracle AI Vector Search",
+      "filename": "../../introduction/introduction.md"
+    },
+    {
+      "title": "Lab 1: Vector Search Fundamentals",
+      "description": "Set up embeddings and perform keyword, vector, and hybrid search",
+      "filename": "../../lab1-vector-search/vector-search.md"
+    },
+    {
+      "title": "Lab 2: Build a RAG Agent",
+      "description": "Create a Retrieval-Augmented Generation agent with OCI GenAI",
+      "filename": "../../lab2-rag-agent/rag-agent.md"
+    },
+    {
+      "title": "Need Help?",
+      "description": "Solutions to common problems and support contacts",
+      "filename": "https://oracle-livelabs.github.io/common/labs/need-help/need-help-livelabs.md"
+    }
+  ]
+}
